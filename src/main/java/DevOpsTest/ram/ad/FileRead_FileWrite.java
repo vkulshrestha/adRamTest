@@ -61,7 +61,7 @@ public class FileRead_FileWrite {
 			 System.out.println("fr.read returns :" +fr.read(arr));
 			 fr.read(arr);
 
-			 // for each type loop1
+			 // for each type loop12
 			 for(char c:arr){
 				 System.out.print(c);
 			 }
