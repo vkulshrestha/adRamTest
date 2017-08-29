@@ -5,9 +5,9 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 
-import junit.framework.TestCase;
+//import junit.framework.TestCase;
 
-public class FileRead_FileWrite extends TestCase {
+public class FileRead_FileWrite  {
 
 	/*
 	 * create file- new method
